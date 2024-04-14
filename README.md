@@ -1,6 +1,6 @@
 
 ## My Portfolio Preview
-<img src="" height="75%" width="75%" alt="Daljeet's portfolio preview"/>
+<img src="https://github.com/daljeetseera/daljeetsingh.github.io/blob/main/dist/assets/screenshot/preview.png" height="75%" width="75%" alt="Daljeet's portfolio preview"/>
 
 
 **[View Live Preview](https://daljeetsingh.github.io)**
